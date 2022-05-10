@@ -35,10 +35,10 @@ class kittu{// creating preants class(inheritance)
     }
     public static void main(String[] args) {
         // calling the fucntion of superclass
-        kittu fuck = new kittu();
-        fuck.setid(25);
-        fuck.setname("bindu");
+        kittu fkk = new kittu();
+        fkk.setid(25);
+        fkk.setname("bindu");
 
-        System.out.println(fuck.getid());
+        System.out.println(fkk.getid());
     }
 }
